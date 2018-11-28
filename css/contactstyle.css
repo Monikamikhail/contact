@@ -1,0 +1,65 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.25em;
+    text-align: center;
+}
+
+
+
+h1 {
+ color: black;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 8.25em; 
+    font-weight: 900;
+    padding-top: 40px;
+    
+    
+}
+
+h2 {
+    font: 2.4em;
+    margin-top: 60px;
+}
+
+
+h4 {
+ color: black;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 5.25em;
+
+
+}
+
+.fields {
+    
+    padding-top: 40px;
+}
+
+img {
+  
+    background-size:auto;
+}
+.row {
+    color: black;
+     font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+
+
+.main {
+    
+    background-size: cover;
+    color: black;
+    margin-top: -1rem;
+    padding-bottom: 4rem;
+    padding-top: 60px;
+    width: 100%;
+}
+
+
+p {
+  font-weight: 500; 
+    
+
+}
+
